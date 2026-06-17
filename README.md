@@ -3,7 +3,6 @@
 Solves the **Nurse Rostering Problem (NRP)** as an integer linear program: assign nurses to shifts over a planning horizon while respecting hard constraints (coverage, rest periods, contracted hours) and minimising soft-constraint penalties (preferences, fairness).
 
 **Course:** Optimization Fundamentals — Master IT4SSM, Eunice University, 2025/2026
-**Author:** Muhammad Waseem
 
 ## Approach
 
